@@ -4,7 +4,8 @@
 
 **Authors:**
 
-_Khondokar Hashibul Islam_
+Marlen Ibraimov
+Ravshan Khamidov
 
 
 
